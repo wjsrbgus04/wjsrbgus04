@@ -6,7 +6,7 @@ I'm web frontend developer from South Korea.
 
 ---
 
-## 🔄: AI IDE and Orchestration
+## 🔄 AI IDE and Orchestration
 <div>
     
 </div>
