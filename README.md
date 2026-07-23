@@ -30,4 +30,3 @@ I'm web frontend developer from South Korea.
     <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="Pnpm" alt="Pnpm" width="40" height="40"/>&nbsp;
 </div>
-
