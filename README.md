@@ -1,7 +1,8 @@
 ## :monocle_face: About Me
 I'm software engineer from South Korea.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building an applications.
 - :seedling: I like clean code and I like to ask "why" about problem situations.
+- :robot: With a keen interest in AI Experience (AX), I enjoy working with AI tools efficiently to enhance productivity.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyuhyeon-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gyuhyunjoen/)
 
 ---
